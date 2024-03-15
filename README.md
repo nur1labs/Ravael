@@ -119,6 +119,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [SimCoder](https://github.com/simcoderYoutube).
+
 Copyright © 2024 [BitCoder](https://github.com/entityblockchain).
 
 This project is [Apache License 2.0](https://github.com/entityblockchain/minetok/blob/main/LICENSE) licensed. Some of the dependencies are licensed differently.
