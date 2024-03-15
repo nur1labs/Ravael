@@ -1,4 +1,4 @@
-# Welcome to MineTok 👋
+# Welcome to Ravael 👋
 ![Version](https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitcoder/)
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
 
-> Main repository of the BitCoder's youtube series &#34;Make an App like TIKTOK&#34;
+> Main repository of the BitCodec's series &#34;Make an App like TIKTOK&#34;
 
 Make a web app Like TIKTOK
 
@@ -16,7 +16,7 @@ By the end of this series you'll have learned how the big companies do it and wi
 
 Any question, ask me in the Forum, every question gets an answer! http://bitcodec.com/forum
 
-This project will be made using react native, firebase firestore, firebase storage, redux, expo, along with a lot of other packages and technologies which will help us get this MineTok app up and running as fast as possible.
+This project will be made using react native, firebase firestore, firebase storage, redux, expo, along with a lot of other packages and technologies which will help us get this Ravael app up and running as fast as possible.
 
 ### 📺 [**View the youtube tutorial series here**](https://www.youtube.com/playlist?list=PLxabZQCAe5fjzyawndGLeP1GkJTAjZlKL)
 
@@ -92,7 +92,7 @@ expo start
 
 ## 💙  question FAQ
 
-If you have any question then please use the following [Forum](https://bitcoder.com/forum/minetok/).
+If you have any question then please use the following [Forum](https://bitcoder.com/forum/ravael/).
 
 <br>
 
@@ -105,7 +105,7 @@ If you have any question then please use the following [Forum](https://bitcoder.
 * Github: [@simcoderYoutube](https://github.com/simcoderYoutube)
 * Youtube: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
 
-**BitCoder Team(Developer MineTok)**
+**BitCoder Team(Developer Ravael)**
 * Website: [bitcoder](https://bitcoder.com)
 * Twitter: [@bitcoder](https://twitter.com/bitcoder)
 * Github: [@entityblockchain](https://github.com/entityblockchain)
@@ -122,4 +122,4 @@ Copyright © 2020 [SimCoder](https://github.com/simcoderYoutube).
 
 Copyright © 2024 [BitCoder](https://github.com/entityblockchain).
 
-This project is [Apache License 2.0](https://github.com/entityblockchain/minetok/blob/main/LICENSE) licensed. Some of the dependencies are licensed differently.
+This project is [Apache License 2.0](https://github.com/entityblockchain/ravael/blob/main/LICENSE) licensed. Some of the dependencies are licensed differently.
